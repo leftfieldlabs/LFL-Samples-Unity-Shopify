@@ -1,0 +1,2 @@
+# LFL Unity Shopify Sample Project
+This repository is a companion to our [Medium article](https://medium.com/@josh.sole/91c3c3ef88a8) explaining our experiences integrating Shopify into our Unity work.
